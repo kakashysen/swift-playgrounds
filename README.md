@@ -20,5 +20,5 @@ Example of how to use `Generics`
 
 Example of how to use `Comparable` and `Equatable` protocols
 
-## Playgorunds
--[Comparable & Equatable](https://github.com/kakashysen/swift-algorithms-ds/blob/master/Pages/Comparable.xcplaygroundpage/Contents.swift)
+## Playgrounds
+- [Comparable & Equatable](https://github.com/kakashysen/swift-algorithms-ds/blob/master/Pages/Comparable.xcplaygroundpage/Contents.swift)
