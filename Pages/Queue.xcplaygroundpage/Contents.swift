@@ -1,5 +1,4 @@
-//: Playground - noun: a place where people can play
-
+//: # Queue
 import Foundation
 
 class Node<E> {
@@ -11,7 +10,8 @@ class Node<E> {
     }
 }
 
-// nil<-[1]<-[2]<-[3]
+//: - Graphical Explanation
+//: `nil<-[1]<-[2]<-[3]`
 
 class Queue<E> : NSObject{
     
@@ -60,7 +60,7 @@ class Queue<E> : NSObject{
     }
 }
 
-// Testing
+//: ## Test Cases
 let queue = Queue<Int>()
 queue.enqueue(element: 1)
 queue.enqueue(element: 2)

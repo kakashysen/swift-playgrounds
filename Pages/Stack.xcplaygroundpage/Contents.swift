@@ -1,5 +1,5 @@
 //: [Previous](@previous)
-
+//: # Stack
 import Foundation
 
 class Node<E> {
@@ -42,7 +42,7 @@ class Stack<E> {
     }
 }
 
-// Testing
+//: ## Test Cases
 let stack = Stack<Int>()
 stack.push(element: 1)
 stack.push(element: 2)
